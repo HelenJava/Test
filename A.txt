@@ -1,2 +1,4 @@
-This is a file A.
+Hi you. This is a file A.
 First addition. FLR
+Addition made in NLR.
+

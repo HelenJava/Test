@@ -1,2 +1,4 @@
 This is a file A.
 First addition. FLR
+Let me show you changes in file A made from FLR.
+Second addition.
